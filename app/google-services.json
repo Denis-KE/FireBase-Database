@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75562750879",
+    "firebase_url": "https://my-firebase-database-51d15.firebaseio.com",
+    "project_id": "my-firebase-database-51d15",
+    "storage_bucket": "my-firebase-database-51d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75562750879:android:d366bc0c117d79452223aa",
+        "android_client_info": {
+          "package_name": "com.deno.myfirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75562750879-nkmq1gtqpl5bmle9r1lfbkc6obfg9lmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deno.myfirebasedatabase",
+            "certificate_hash": "ffd74a50c17b7e5b500bb8a74281e77565909bd7"
+          }
+        },
+        {
+          "client_id": "75562750879-0rb4fs5rmcj4vvvdr4b9baseusqea0do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB9VsuudlGqd3FIEhzElAGETcqHWYD-0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75562750879-0rb4fs5rmcj4vvvdr4b9baseusqea0do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
